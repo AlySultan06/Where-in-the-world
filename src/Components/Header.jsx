@@ -14,7 +14,7 @@ function Header(props) {
     <Container maxWidth="xl" sx={{ bgcolor: "background.paper", py: "25px",boxShadow:"1px 0px 20px 0px #0000001a",position:"relative" }}>
       <Stack alignItems="center" justifyContent="space-between" direction="row" >
         <Typography variant="h1" color="text.primary">
-          Where in the world?
+          Where in the World?
         </Typography>
 
         <Button
