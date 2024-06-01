@@ -23,7 +23,7 @@ function Header(props) {
           startIcon={<BedtimeOutlinedIcon />}
           onClick={props.onClick}
         >
-         <Typography variant="body2">Dark Mode</Typography> 
+         <Typography variant="body2">Dark mode</Typography> 
         </Button>
       </Stack>
     </Container>
